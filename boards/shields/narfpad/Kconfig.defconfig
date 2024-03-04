@@ -1,0 +1,6 @@
+if SHIELD_NARFPAD
+
+config ZMK_KEYBOARD_NAME
+    default "narfpad"
+
+endif
